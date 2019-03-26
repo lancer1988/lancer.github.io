@@ -1,3 +1,6 @@
+theme: jekyll-theme-cayman
+title: Welcome to Lancer's homepage
+description: Feel free to bookmark this to keep an eye on my projects updates
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/lancer1988/lancer.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
